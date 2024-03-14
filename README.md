@@ -1,4 +1,4 @@
-Simplified ERP System Interface using HTML,CSS and JAVASCRIPT
+#Simplified ERP System Interface using HTML,CSS and JAVASCRIPT
 This project aims to streamline essential company operations through an intuitive interface, offering simplified management of crucial processes via an ERP (Enterprise Resource Planning) system. The system encompasses key sections such as the Dashboard, Product Management, and Order Management. Additionally, a feature can be integrated to present an Orders Calendar View, facilitating a visual representation of orders based on their anticipated delivery dates.
 
 Documentation
