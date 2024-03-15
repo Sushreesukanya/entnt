@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enterprise Resource Planning System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>ERP System</h1>
+</header>
+
+<nav>
+  <ul>
+    <li><button onclick="showDashboard()">Dashboard</button></li>
+    <li><button onclick="showProducts()">Products Management</button></li>
+    <li><button onclick="showOrders()">Orders Management</button></li>
+    <li><button onclick="showCalendar()">Orders Calendar View</button></li>
+  </ul>
+</nav>
+
+<section id="dashboard" style="display: none;">
+  <h2>Dashboard</h2>
+  <div>
+    <h3>System Overview</h3>
+    <p>Total number of products: <span id="totalProducts">0</span></p>
+    <p>Total number of orders: <span id="totalOrders">0</span></p>
+  </div>
+  <div>
+    <h3>Key Metrics</h3>
+    <p>Revenue: <span id="totalRevenue">$0</span></p>
+    <p>Number of active users: <span id="activeUsers">0</span></p>
+  </div>
+  <div>
+    <h3>Recent Activities</h3>
+    <ul id="recentActivities">
+      <!-- Recent activities will be dynamically added here using JavaScript -->
+    </ul>
+  </div>
+</section>
+
+<section id="products" style="display: none;">
+  <h2>Products Management</h2>
+  <ul id="productList">
+    <!-- Product items will be dynamically added here using JavaScript -->
+  </ul>
+  <button class="primary" onclick="addProduct()">Add Product</button>
+</section>
+
+<section id="orders" style="display: none;">
+  <h2>Orders Management</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Order ID</th>
+        <th>Customer Name</th>
+        <th>Order Date</th>
+        <th>Status</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody id="orderList">
+      <!-- Order items will be dynamically added here using JavaScript -->
+    </tbody>
+  </table>
+</section>
+
+<section id="calendar" style="display: none;">
+  <h2>Orders Calendar View</h2>
+  <div id="calendarContainer"></div> <!-- Added calendar container -->
+</section>
+
+<script src="index.js"></script>
+
+</body>
+</html>
