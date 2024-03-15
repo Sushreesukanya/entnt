@@ -33,6 +33,5 @@ Interacting with the Website:
 
 To view the ERP System Interface, Kindly refer to the below attached link:
 
-https://bishal-jena04.github.io/entnt/
-
+https://sushreesukanya.github.io/entnt/
 
