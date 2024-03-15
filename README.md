@@ -20,14 +20,15 @@ Interacting with the Website:
 
 # Screenshots
 
+![ss1](https://github.com/Sushreesukanya/entnt/assets/162134544/02381db0-e7ba-43f3-a1ea-a79d1ea89c62)
 
-![ERP1](https://github.com/Bishal-Jena04/entnt/assets/136837415/b11bf421-a9bf-4eb8-8936-7570397cb198)
+![Screenshot 2024-03-15 133733](https://github.com/Sushreesukanya/entnt/assets/162134544/96d2296b-92db-4a15-8ff6-12e5d7a422a2)
 
-![ERP](https://github.com/Bishal-Jena04/entnt/assets/136837415/40451c8d-5c0b-49b4-95e6-a1340bcf4201)
+![product](https://github.com/Sushreesukanya/entnt/assets/162134544/d041a7d6-7e2f-493b-900d-fdbbfe7d673a)
 
-![ERP2](https://github.com/Bishal-Jena04/entnt/assets/136837415/c6607990-3ea1-4137-bc65-dd1b34384d63)
+![calender](https://github.com/Sushreesukanya/entnt/assets/162134544/a3d3ff80-3340-4b4d-8a9b-67d91d5055ff)
 
-![ERP3](https://github.com/Bishal-Jena04/entnt/assets/136837415/90c2e421-0c51-4560-8c38-cc95c49a3fc3)
+
 
 
 To view the ERP System Interface, Kindly refer to the below attached link:
